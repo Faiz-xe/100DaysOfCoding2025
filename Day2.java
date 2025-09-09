@@ -1,5 +1,5 @@
 public class Day2 {
-  public static void main(Strong[]args) {
+  public static void main(String[]args) {
     System.out.print("faiz");
     System.out.println("");
     System.out.println("faiz");
