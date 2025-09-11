@@ -7,5 +7,7 @@ public class Day4 {
     // \t memberi spasi tab
   System.out.println("Dia berkata:\"Aku mencintaimu\"");
     // \" menampilkan tanda kutip
+    System.out.println("Path file: C:\\Users\\Faiz\\Documents");  
+    // \\ menampilkan backslash
   }
 }
